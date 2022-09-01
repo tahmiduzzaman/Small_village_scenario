@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606874608 source:e:\problem solving and campus\diu...lecture\11th semester\graphics project\village3\village.c
+	<stdio.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<stdlib.h>
+	<windows.h>
+
